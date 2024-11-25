@@ -1,6 +1,6 @@
 # Python Practice Code Repository  
 
-This repository contains a collection of Python scripts created during my studies at the university. The scripts were developed as part of coursework and self-development exercises to enhance my understanding of Python programming and problem-solving techniques.  
+This repository contains a collection of Python scripts created during my studies at the university. The scripts were developed as part of coursework (CSC 201: Computer Programming - Python) and self-development exercises to enhance my understanding of Python programming and problem-solving techniques. Created and completed between Mon, 1st Mar 2021 and Thu, 4th Mar 2021.
 
 ## Repository Overview  
 
@@ -21,14 +21,23 @@ The repository includes the following scripts, covering a wide range of Python t
 13. **`Tuples.py`**: Discusses tuple data structures and their properties.  
 14. **`Week 5 Asg.py`**: Another coursework-related assignment script.  
 
-Additionally, the repository contains a `venv` folder, representing a Python virtual environment, and an `.idea` folder. The PyCharm, during development.  
+Additionally, the repository contains a `venv` folder, representing a Python virtual environment, and an `.idea` folder. The PyCharm IDE was used during development.  
 
 ## Key Details  
 
 - The scripts reflect foundational and intermediate-level Python programming concepts learned during coursework.  
 - They cover practical use cases like file handling, data structures, interactive programming, and more.  
 
+## Screenshots
+
+Here's a screenshots of the project folder properties:
+
+![Project Folder Properties Screenshot](./img/Pycharm-Python.png)
+
 ## Notes  
 
 - This repository serves as an archive of my early programming efforts and progress in Python.  
-- Future updates may include refinements or additional notes to enhance readability and utility for educational purposes.
+
+## License
+
+This repository is shared without any specific license, as it primarily serves as an educational archive.
